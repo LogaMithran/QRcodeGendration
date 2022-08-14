@@ -1,1 +1,1 @@
-QR code gendration using google APIs
+QR code gendration using google APIss
